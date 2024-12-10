@@ -15,13 +15,21 @@
 - LXSH - https://www.instagram.com/lxshproject/
 - THEDOTISBLACK - https://thedotisblack.com
 - Patrik Huebner - https://www.patrik-huebner.com
+- Florian Zumbrunn - https://www.florianzumbrunn.com/
+- Cyril Diagne- https://cyrildiagne.com/
+- Mario Klingemann - https://underdestruction.com/category/work/
 
 ## Livres
 - "Pathways" - Julien Gachadoat https://vetroeditions.com/pages/ptw?srsltid=AfmBOooXW4eyDFCoTol4E9sIWlV-TUcfRMPv9thSpX_9nvKg66LnWiwr
 - "Tracing the Line" - Generative Hut https://fisheyeimmersive.com/article/book-club-tracing-the-line-de-generative-hut/
 - "Generative Art: A Practical Guide Using Processing" - Matt Pearson https://www.mat.ucsb.edu/~g.legrady/academic/courses/20f594/txt/generativeArt2.pdf
+- "Le code de la créativité : Comment l'IA apprend à écrire, peindre et penser" - https://www.babelio.com/livres/Sautoy-Le-code-de-la-creativite--Comment-lIA-apprend-a-/1464625#genecy-interstitial-ad
+- Crayola ® Art of Coding: A Celebration of Creative Mindsets - https://books.google.fr/books/about/Crayola_Art_of_Coding.html?id=w_cLEAAAQBAJ&redir_esc=y
 
-  
+##Documentation présentation orale**
+-"fonctionnement Tesla OPTIMUS" - https://arxiv.org/pdf/2304.04949
+- recherches,présentation - https://ahead-empress-6e0.notion.site/Pr-sentation-Robot-Optimus-1377c2d2120a80c18aeac63cc39a3b6a?pvs=4
+
 
 ### **ML5 and Tensorflow**
 
