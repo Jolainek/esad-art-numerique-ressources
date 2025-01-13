@@ -15,14 +15,18 @@
 - LXSH - https://www.instagram.com/lxshproject/
 - THEDOTISBLACK - https://thedotisblack.com
 - Patrik Huebner - https://www.patrik-huebner.com
+- Harmiona Roasales - https://www.harmoniarosales.art/?fbclid=PAZXh0bgNhZW0CMTEAAaYzRXryROGJIoyfTTsN24qeXH0SOA9ZVyJphozs5hfQhlrq0eSFZeiLJsU_aem_6UasbvqyaBN7mR8f2GwcGw
+- davidrokeby - http://www.davidrokeby.com/minimal_object.html
 
 ## Livres
 - "Pathways" - Julien Gachadoat https://vetroeditions.com/pages/ptw?srsltid=AfmBOooXW4eyDFCoTol4E9sIWlV-TUcfRMPv9thSpX_9nvKg66LnWiwr
 - "Tracing the Line" - Generative Hut https://fisheyeimmersive.com/article/book-club-tracing-the-line-de-generative-hut/
 - "Generative Art: A Practical Guide Using Processing" - Matt Pearson https://www.mat.ucsb.edu/~g.legrady/academic/courses/20f594/txt/generativeArt2.pdf
 - "The Stuff Games Are Made Of" - Pippin Barr https://mitpress.mit.edu/9780262546119/the-stuff-games-are-made-of/
+- "Living art"- Florent Aziosmanoff
 
-  
+## Vidéos
+  - https://www.youtube.com/watch?v=DDaldVHUedI
 
 ### **ML5 and Tensorflow**
 
